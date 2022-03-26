@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    background-color: lightblue;
+}
+
+h1 {
+    text-shadow: 2px 2px #F8BBD0;
+}
+
+#bio{
+    padding: 20px;
+    font-size: 18;
+    text-align: center;
+}
+
+img{
+    border-radius: 50%;
+    width: 100px;
+}
+
+.list li{
+    display: inline;
+}
